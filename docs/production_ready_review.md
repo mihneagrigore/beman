@@ -32,7 +32,7 @@ The intent is to ensure that every production-ready library meets the Beman stan
    * Includes **complete and accurate documentation**, including tutorial, design rationale, and examples
 
    Note that much of the design documentation may simply reference the WG21 paper. 
-   Also note that since the current documentation system is a work in progress docs should be markdown for now.
+   Also note that since the current documentation system is a work in progress, docs should be Markdown for now.
 
 4. **Community Evaluation**
    During the review period, the community is encouraged to:
