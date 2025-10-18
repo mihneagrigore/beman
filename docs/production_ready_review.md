@@ -46,5 +46,3 @@ The intent is to ensure that every production-ready library meets the Beman stan
 
    * Approval by **at least two project leads**, and
    * Demonstrated **positive community consensus** that the review criteria have been met
-
-
