@@ -44,5 +44,5 @@ The intent is to ensure that every production-ready library meets the Beman stan
 4. **Approval Requirements**
    A library may transition to *Production Ready* status only after:
 
-   * Approval by **at least two project leads**, and
-   * Demonstrated **positive community consensus** that the review criteria have been met
+   * Demonstrated **positive community consensus** that the review criteria have been met as determined by **at least two project leads**, or
+   * in the rare case there is lack of consensus, the leads make a call. 
